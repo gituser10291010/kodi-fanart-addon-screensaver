@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="screensaver.moviefanart" name="Movie Fanart Screensaver" version="1.0.0" provider-name="YourName">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="xbmc.gui" version="5.17.0"/>
+		<import addon="resource.language.en_gb" version="2.0.0"/>
+    </requires>
+    <extension point="xbmc.ui.screensaver" library="default.py"/>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en_GB">Movie fanart screensaver with posters</summary>
+        <description lang="en_GB">A screensaver that displays random movie fanart with posters and titles from your Kodi library</description>
+        <disclaimer lang="en_GB">Requires movies with fanart and poster artwork in your library</disclaimer>
+        <language></language>
+        <license>GPL-3.0</license>
+    </extension>
+</addon>
