@@ -13,7 +13,7 @@ A Kodi screensaver addon that displays your movie library's beautiful fanart wit
 
 ## How It Works
 
-The screensaver randomly selects movies from your Kodi library that have both fanart and poster artwork available. It displays the fanart as a full-screen background, then after a configurable delay, overlays the movie poster in the bottom-left corner along with the movie title and year (if enabled).
+The screensaver randomly selects movies from your Kodi library that have both fanart and poster artwork available. It displays the fanart as a full-screen background, then after a configurable delay, overlays the movie poster in the top-left corner along with the movie title and year (if enabled).
 
 ## Configuration Options
 
