@@ -31,7 +31,7 @@ The screensaver includes several customizable settings accessible through Kodi's
 ### Font Configuration
 
 **IMPORTANT:** This screensaver requires custom font definitions to display titles properly. You must add the following font entries to your skin's `Font.xml` file
-Your custom font must be located at <kodi_userdata>/media/fonts/<font_file>.  The following uses helvetica.ttf as an EXAMPLE only, replace with your font's filename:
+Your custom font must be located at `<kodi_userdata>/media/fonts/<font_file>`.  The following uses `helvetica.ttf` as an EXAMPLE only, replace with your font's filename:
 
 ```xml
 <font>
